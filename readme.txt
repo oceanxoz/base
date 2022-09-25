@@ -7,4 +7,4 @@ Creating a new branch is quick and simple bug fixed.
 =======
 Git tracks changes of files.
 Creating a new branch is quick and simple.
->>>>>>> feature1
+>>>>>>> feature111
